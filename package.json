@@ -1,0 +1,20 @@
+{
+  "name": "facebook-ads-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Facebook Ad Library Scraper: Scrape Facebook and Instagram ads from the Meta Ad Library: ad text, creatives, page, platforms, dates and spend ranges. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "facebook"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
